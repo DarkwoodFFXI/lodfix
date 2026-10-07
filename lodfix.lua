@@ -112,8 +112,8 @@
 --]]
 
 addon.name    = 'lodfix';
-addon.author  = 'john';
-addon.version = '3.0';
+addon.author  = 'Darkwood';
+addon.version = '1.0';
 addon.desc    = 'Always draws zone objects (trees, buildings, ...) at full detail, so they no longer pop.';
 addon.link    = '';
 
